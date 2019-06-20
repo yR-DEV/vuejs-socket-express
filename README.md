@@ -1,29 +1,8 @@
 # vue-socket
+Simple chat application with socket.io implementation
 
 ## Project setup
-```
-npm install
-```
+`npm install` - to install required dependencies
+`nodemon ./server/app.js` - in the root to run the express backend locally
+`npm run server`- in root to run the frontend
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
